@@ -1,0 +1,15 @@
+Student Name: Thomas Oforikumah
+GitHub Username: ThomasCyril1
+Repository: SE103-Week4
+Repository URL: https://github.com/ThomasCyril1/SE103-Week4
+
+What a pull request asks teammates to do:
+A pull request asks teammates to review proposed changes before they are merged into the main branch. It gives reviewers an opportunity to check the changes, provide feedback, and identify possible problems.
+
+Why branches and pull requests are used together:
+Branches allow developers to work on changes separately from the main branch, while pull requests provide a structured way to review those changes. Together, they help teams organize development and reduce the risk of adding unreviewed changes to the main branch.
+
+One thing that confused me in this project and how I solved it:
+One thing that confused me was understanding the difference between a branch and a pull request. I learned that a branch is where I make and save changes separately, while a pull request is used to request a review of those changes before merging them into another branch. I solved this by practicing the workflow of creating a branch, pushing it to GitHub, opening a pull request, and merging it into main.
+
+All required files are on main: Yes
