@@ -1,0 +1,23 @@
+Student Name: Thomas Oforikumah
+GitHub Username: ThomasCyril1
+
+
+Authentication method I used: PAT
+
+
+Why I chose this method:
+I chose a Personal Access Token because it allows me to authenticate securely when working with my GitHub repository from the terminal. It provides an alternative to using my GitHub account password for Git operations.
+
+
+One security habit I must follow with this method:
+I must keep my Personal Access Token private and never share it in messages, screenshots, files, or public repositories. If a token is accidentally exposed, I should revoke it and create a replacement.
+
+
+Difference between a commit and a push:
+A commit saves a set of staged changes as a snapshot in my local Git repository. A push sends my local commits to the remote GitHub repository. A commit can exist locally without being on GitHub. I need to push the commit when I want the changes to appear on the remote repository.
+
+
+My repository URL:
+https://github.com/ThomasCyril1/SE103-Week4
+
+
