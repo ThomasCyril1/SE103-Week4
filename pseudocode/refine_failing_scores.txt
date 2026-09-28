@@ -1,0 +1,30 @@
+Student Name: Thomas Oforikumah
+
+Problem:
+Find which scores failed.
+
+Input:
+a list of student scores
+
+Output:
+the failing scores, or a message if no one failed
+
+Failing rule:
+score < 50
+
+Pseudocode:
+START
+1. IF the list of scores is empty THEN
+      return "Error: score list is empty"
+   ELSE
+      create an empty list called failing_scores
+2. FOR each score in the list
+      IF score < 50 THEN
+         add the score to failing_scores
+      END IF
+3. IF failing_scores is empty THEN
+      return "No one failed"
+   ELSE
+      display failing_scores
+   END IF
+END

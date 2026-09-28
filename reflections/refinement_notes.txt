@@ -1,0 +1,10 @@
+Student Name: Thomas Oforikumah
+
+Which phrases were too vague:
+The phrases "Get student scores" and "Check them" were too vague because they did not explain how the scores should be obtained or checked. "Find who failed" was also unclear because it did not state the rule for deciding whether a student failed. "Show result" did not explain what should be displayed when there are no failing scores.
+
+How I made each vague part specific:
+I changed the process to work with a list of student scores and clearly stated that a score below 50 is failing. I added a loop to examine each score one at a time and an IF decision to identify scores below 50. I also specified what should happen when the list is empty and when no score meets the failing rule.
+
+Why refinement matters before coding:
+Refinement makes the algorithm precise enough for someone else to follow without guessing what each step means. It also helps identify missing conditions and edge cases before the algorithm is turned into code. Clear pseudocode can reduce errors during implementation.
