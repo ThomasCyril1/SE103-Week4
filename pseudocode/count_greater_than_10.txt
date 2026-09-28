@@ -1,0 +1,23 @@
+Student Name: Thomas Oforikumah
+
+Problem:
+Count how many numbers in a list are greater than 10.
+
+Input:
+a list of numbers
+
+Output:
+the count, or an error if the list is empty
+
+Pseudocode:
+START
+1. IF the list is empty THEN
+      return "Error: list is empty"
+   ELSE
+      set count to 0
+2. FOR each number in the list
+      IF number > 10 THEN
+         increase count by 1
+      END IF
+3. Return count
+END

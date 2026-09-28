@@ -1,0 +1,16 @@
+Student Name: Thomas Oforikumah
+Sample Input: [4, 15, 10, 22, 8]
+
+Step-by-step trace:
+1. Start with count = 0.
+2. Check 4: 4 is not greater than 10, so count remains 0.
+3. Check 15: 15 is greater than 10, so count becomes 1.
+4. Check 10: 10 is not greater than 10, so count remains 1.
+5. Check 22: 22 is greater than 10, so count becomes 2.
+6. Check 8: 8 is not greater than 10, so count remains 2.
+7. The list has been checked, so return the final count.
+
+Final output: 2
+
+Empty list input: []
+Empty list result: Error: list is empty
