@@ -1,0 +1,26 @@
+Student Name: Thomas Oforikumah
+
+Problem:
+Search a list of names for one target name and report whether it was found.
+
+Input:
+- a list of names
+- one target name
+
+Output:
+- "Found" or "Not found"
+- or an error if the list is empty
+
+Pseudocode:
+START
+1. IF the list of names is empty THEN
+      return "Error: name list is empty"
+   ELSE
+      FOR each name in the list
+         IF name equals the target name THEN
+            return "Found"
+         END IF
+      END FOR
+      return "Not found"
+   END IF
+END
