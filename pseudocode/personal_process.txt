@@ -1,0 +1,37 @@
+Student Name: Thomas Oforikumah
+
+Problem:
+Set up the church sound system before a service so that microphones and music can be heard clearly without unwanted noise or feedback.
+
+Input:
+Mixer, microphones, amplifier, speakers, cables, music source, and power supply.
+
+Output:
+A working sound system with microphones and music producing clear audio at appropriate volume levels.
+
+Edge Case Handled:
+If a microphone or cable does not work during testing, use another available microphone or cable before the service begins.
+
+Pseudocode:
+START
+1. Check that the mixer, amplifier, speakers, microphones, cables, and music source are available.
+2. Connect the microphones and music source to the mixer.
+3. Connect the mixer to the amplifier and the amplifier to the speakers.
+4. Turn on the equipment in the correct order.
+5. Test each microphone and the music source.
+6. IF a microphone or cable does not work THEN
+      replace it with a working microphone or cable
+      test it again
+   ELSE
+      continue with the sound check
+7. Adjust the microphone, music, and master volume levels.
+8. Check for unwanted noise or feedback and reduce the appropriate level if necessary.
+9. Perform a final sound check before the service starts.
+10. IF all sound sources work clearly THEN
+       confirm that the system is ready
+    ELSE
+       identify and correct the remaining problem
+END
+
+Why this is clear enough to follow:
+The steps are arranged in the order that the sound system should be prepared and tested. Each important piece of equipment is identified before the setup begins. The IF/ELSE decisions explain what to do when a microphone or cable does not work. The final sound check confirms that the system is ready before the service starts.
